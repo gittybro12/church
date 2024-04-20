@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.landing{
+    background: linear-gradient(to right,rgba(255, 0, 0, 0.58),rgba(179, 81, 97, 0.7),rgba(128, 0, 128,0.7)), url(../img/coffee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 50px 200px;
+}
+.free{
+    display: inline;
+    color: white;
+    font-size: 40px;
+    padding: 0 30px;
+
+
+}
+.nav1{
+    width: 20px;
+    display: inline;
+}
+a{
+padding: 0 20px;
+float: right;
+font-size: 20px;
+font-weight: 700;
+text-decoration: none;
+color: white;
+text-transform: uppercase;
+}
+a:hover{
+    background-color: beige;
+    color: black;
+}
+.more{
+    text-align: center;
+    margin: 200px;
+    font-size: 55px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    height: 200px;
+
+    
+}
+.bye{
+text-align: center;
+font-size: 30px;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-transform: uppercase;
+}
+.box{
+    width: 33.33%;
+    float: left;
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    color: white;
+    
+}
+.a{
+    background: linear-gradient(to right,rgba(255, 255, 0,0.68),rgba(255, 255, 0,0.68)),url(../img/HANDBILL23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b{
+    background: linear-gradient(to right, rgba(0, 0, 139,0.68),rgba(0, 0, 139,0.68)),url(../img/HANDBILL23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c{
+    background: linear-gradient(to right,rgba(0, 128, 0,0.68),rgba(0, 128, 0,0.68)),url(../img/HANDBILL23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d{
+    background: linear-gradient(to right,rgba(255, 255, 255,0.4),rgba(255, 255, 255,0.4)),url(../img/HANDBILL23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 66.66%;
+    height: 500px;
+}
+.e{
+    background: linear-gradient(to right,rgba(255, 192, 203,0.6),rgba(255, 192, 203,0.6)),url(../img/HANDBILL23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 33.34%;
+    height: 500px;
+    
+}
+.take{
+    float: left;
+    text-align: center;
+    padding: 200px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tank{
+    font-weight: 400px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-style: normal;
+
+}
+
